@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shootoaph.jgeconstruction.com/sitemap.xml
